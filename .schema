@@ -1,0 +1,20 @@
+json
+"table": first
+"seed": second
+
+game: if lose, go back to beginning instead of exiting out, implement back feature so check key up movements and adjust as necessary
+pip freeze > requirements.txt    <-- will tell you requirements needed
+
+pip list shows requirements,
+pip freeze > requirements.txt
+pip install -r requirements      <---will instlal what is needed to run program
+nodemon!!! peep it
+
+pyhton3 -m venv [name_of_folder]    <--- keeps dependecnies inside of environment
+
+windows: look up how to activate the above
+
+netflix clone: go in to source, make directory called components; make folder called Banner; basically clean it up, make it DRY!! move the fodlers make sure you change path names
+.env.local for api key; make sure to go back in and hide api key
+
+open db/election.db     <---- remember this!
